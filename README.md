@@ -1,6 +1,9 @@
 ### Hi there 👋
 🔭 I am a 3rd-year student in Electrical and Electronic Engineering at Akdeniz University. I am dedicated to continuously improving myself with a focus on embedded systems. I am putting in active effort to enhance my skills and knowledge in this field. By staying up-to-date, my goal is to further progress in the field of embedded systems.
+
+
 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetkara-1/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmt.kara/)
 
 
